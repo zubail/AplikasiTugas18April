@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiTugas18April</string>
+
+    <string name="inggris">Hello World!! By Zubaili Isfarizky</string>
+    <string name="indo">Apakabar Dunia!! Dari Zubaili Isfarizky</string>
+    <string name="aceh">Peuhaba Donya!! Dari Zubaili Isfarizky</string>
+    <string name="tombol_terjemah">Bahasa Indonesia</string>
+    <string name="tombol_terjemah2">Bahasa Inggris</string>
+    <string name="tombol_terjemah3">Bahasa Aceh</string>
+    <string name="action_settings">Settings</string>
+</resources>
