@@ -46,13 +46,13 @@ public class MainActivity extends ActionBarActivity {
     }
     public void onClickTombolTerjemah2(View view){
         TextView txtTulisan = (TextView) findViewById(R.id.txtTulisan);
-        String cuma = getString(R.string.inggris);
-        txtTulisan.setText(cuma);
+        String inggris = getString(R.string.inggris);
+        txtTulisan.setText(inggris);
 
     }
     public void onClickTombolTerjemah3(View view){
         TextView txtTulisan = (TextView) findViewById(R.id.txtTulisan);
-        String cuti = getString(R.string.aceh);
-        txtTulisan.setText(cuti);
+        String aceh = getString(R.string.aceh);
+        txtTulisan.setText(aceh);
     }
 }
