@@ -40,8 +40,8 @@ public class MainActivity extends ActionBarActivity {
     }
     public void onClickTombolTerjemah(View view){
         TextView txtTulisan = (TextView) findViewById(R.id.txtTulisan);
-        String coba = getString(R.string.indo);
-        txtTulisan.setText(coba);
+        String indo = getString(R.string.indo);
+        txtTulisan.setText(indo);
 
     }
     public void onClickTombolTerjemah2(View view){
